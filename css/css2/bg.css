@@ -1,0 +1,21 @@
+/*
+body{
+    background: url("../images/e.jpg") no-repeat center center fixed;
+    background-size: cover;
+    
+}
+*/
+
+body{
+    background: url("../images/dog.jpeg") no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    width:300px;
+    padding: 20px;
+    margin: 2px auto;
+    font-family:cursive;
+    font-size: 3em
+    
+}
